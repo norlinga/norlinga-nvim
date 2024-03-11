@@ -7,8 +7,12 @@ Check out into ~/.config/nvim
 git clone git<wherever>.git/norlinga/norlinga-nvim ~/.config/nvim
 ```
 
-A few aliases have been convenient, like `alias nv='nvim'`.
-
-## Adding LSPs and Linters
+## LSPs, Linters, Font, Aliases...
 
 Remember to install linters and LSPs using `:Mason` if not installed automatically.
+
+Convenient aliases when appropriate: `alias nv='nvim'`
+
+Install `ripgrep` to power "live_grep".
+
+Install a Nerdfont and set it in iTerm or wherever to get NerdTree and lua_line stuff looking cool.
